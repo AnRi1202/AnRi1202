@@ -9,10 +9,12 @@
 
 ## Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,typescript,vim,bash" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,typescript,vim,bash,go" /> <br /><br />
 
++Verilog, SystemVerilog
 ## Frameworks and Library
 
 <img src="https://skillicons.dev/icons?i=react,next,nodejs" /> <br /><br />
 
++Qiskit
 
