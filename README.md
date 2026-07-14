@@ -1,20 +1,20 @@
-# About Me
+# Rikuto Ide (井手陸大)
 
-1. I'm a university student at the University of Tokyo.
+Undergraduate researcher @ University of Tokyo, Dept. of EEIC — Irie-Kadomoto Lab
 
-2. You can find my Tech Blog at [Qiita](https://qiita.com/AnRi1202)
+🔬 **Research**
+- Digital VLSI: fracturable multi-precision floating-point ALU/MAC units for CGRA processing elements (FP32/BF16/FP8) — Best Paper Award @ HEART 2026
+- Analog/Mixed-Signal IC Design: front-end (rectifier, LDO, BGR, backscatter) of a mm-scale NFC-powered RISC-V SoC in TSMC 65nm LP
 
-4. You can find my Blog [Note](https://note.com/rokiroki333)
+📝 Tech Blog: [Qiita](https://qiita.com/AnRi1202) / [Note](https://note.com/rokiroki333)
 
+## Hardware Design
+<img src="https://skillicons.dev/icons?i=verilog" /> <br />
+Verilog, SystemVerilog · Design Compiler · Innovus (PnR) · Cadence Virtuoso/Spectre
 
 ## Programming Languages
+<img src="https://skillicons.dev/icons?i=python,c,cpp,go,bash" /> <br /><br />
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,typescript,vim,bash,go" /> <br /><br />
-
-+Verilog, SystemVerilog
-## Frameworks and Library
-
-<img src="https://skillicons.dev/icons?i=react,next,nodejs" /> <br /><br />
-
+## Tools & Frameworks
+<img src="https://skillicons.dev/icons?i=vim,git" /> <br /><br />
 +Qiskit
-
