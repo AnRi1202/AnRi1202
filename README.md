@@ -13,8 +13,7 @@ Undergraduate researcher @ University of Tokyo, Dept. of EEIC — Irie-Kadomoto 
 Verilog, SystemVerilog · Design Compiler · Innovus (PnR) · Cadence Virtuoso/Spectre
 
 ## Programming Languages
-<img src="https://skillicons.dev/icons?i=python,c,cpp,go,bash" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,bash" /> <br /><br />
 
 ## Tools & Frameworks
 <img src="https://skillicons.dev/icons?i=vim,git" /> <br /><br />
-+Qiskit
