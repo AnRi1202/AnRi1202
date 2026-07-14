@@ -6,7 +6,7 @@ Undergraduate researcher @ University of Tokyo, Dept. of EEIC — Irie-Kadomoto 
 - Digital VLSI: fracturable multi-precision floating-point ALU/MAC units for CGRA processing elements (FP32/BF16/FP8) — Best Paper Award @ HEART 2026
 - Analog/Mixed-Signal IC Design: front-end (rectifier, LDO, BGR, backscatter) of a mm-scale NFC-powered RISC-V SoC in TSMC 65nm LP
 
-📝 Tech Blog: [Qiita](https://qiita.com/AnRi1202) / [Note](https://note.com/rokiroki333)
+📝 Blog:[Note](https://note.com/rokiroki333)
 
 ## Hardware Design
 <img src="https://skillicons.dev/icons?i=verilog" /> <br />
