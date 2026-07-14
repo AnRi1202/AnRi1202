@@ -1,6 +1,6 @@
 # Rikuto Ide (井手陸大)
 
-Undergraduate researcher @ University of Tokyo, Dept. of EEIC — Irie-Kadomoto Lab
+Undergraduate student@ University of Tokyo, Dept. of EEIC — Irie-Kadomoto Lab
 
 🔬 **Research**
 - Digital VLSI: fracturable multi-precision floating-point ALU/MAC units for CGRA processing elements (FP32/BF16/FP8) — Best Paper Award @ HEART 2026
